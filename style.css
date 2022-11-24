@@ -1,11 +1,10 @@
-*
-  
-    padding: 0%;
+*{padding: 0%;
     margin: 0;
     overflow-x: hidden;
 }
 .opac-card{
-    margin-left: 2rem;
+  position:absolute;
+    margin-left:2rem;
     z-index:100;
     top :30%;
     left: 28%;
